@@ -9,37 +9,37 @@ I am an aspiring software engineer who is currently studying computer science an
 ## Languages
 
 <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF&style=flat">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFF&style=flat">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFF&style=flat">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF&style=flat">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF&style=flat-square">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFF&style=flat-square">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFF&style=flat-square">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF&style=flat-square">
 </p>
 
 ## Technologies
 
 <p>
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=303846&style=flat">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=FFF&style=flat">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=FFF&style=flat">
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=FFF&style=flat">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=FFF&style=flat">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFF&style=flat">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFF&style=flat">
-    <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=FFF&style=flat">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=FFF&style=flat">
-    <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=FFF&style=flat">
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=FFF&style=flat">
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=FFF&style=flat">
-    <img alt="Rider" src="https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=FFF&style=flat">
-    <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=FFF&style=flat">
-    <img alt="Eclipse Temurin" src="https://img.shields.io/badge/Eclipse%20Temurin-FE7A16?logo=eclipseadoptium&logoColor=FFF&style=flat">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFF&style=flat">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat">
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=FFF&style=flat">
-    <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=FFF&style=flat">
-    <img alt="fish" src="https://img.shields.io/badge/Fish-4AAE47?logo=fishshell&logoColor=FFF&style=flat">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=303846&style=flat-square">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=FFF&style=flat-square">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=FFF&style=flat-square">
+    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=FFF&style=flat-square">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=FFF&style=flat-square">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFF&style=flat-square">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFF&style=flat-square">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFF&style=flat-square">
+    <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=FFF&style=flat-square">
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=FFF&style=flat-square">
+    <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=FFF&style=flat-square">
+    <img alt="Fish" src="https://img.shields.io/badge/Fish-4AAE47?logo=fishshell&logoColor=FFF&style=flat-square">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=FFF&style=flat-square">
+    <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=FFF&style=flat-square">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=FFF&style=flat-square">
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=FFF&style=flat-square">
+    <img alt="Rider" src="https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=FFF&style=flat-square">
+    <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=FFF&style=flat-square">
+    <img alt="Eclipse Temurin" src="https://img.shields.io/badge/Eclipse%20Temurin-FE7A16?logo=eclipseadoptium&logoColor=FFF&style=flat-square">
 </p>
 
 ## Let's Connect
