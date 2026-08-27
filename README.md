@@ -35,11 +35,21 @@ I am an aspiring software engineer who is currently studying computer science an
     <img alt="Rider" src="https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=FFF&style=flat">
     <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=FFF&style=flat">
     <img alt="Eclipse Temurin" src="https://img.shields.io/badge/Eclipse%20Temurin-FE7A16?logo=eclipseadoptium&logoColor=FFF&style=flat">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFF&style=flat">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat">
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=FFF&style=flat">
+    <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=FFF&style=flat">
+    <img alt="fish" src="https://img.shields.io/badge/Fish-4AAE47?logo=fishshell&logoColor=FFF&style=flat">
 </p>
 
 ## Let's Connect
 
-<a href="https://github.com/4Y44N-KH4L3D"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFF&style=for-the-badge"></a><a href="https://www.instagram.com/4Y44N_KH4L3D/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=FFF&style=for-the-badge"></a><a href="https://www.snapchat.com/@ak47_ayaan"><img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=000&style=for-the-badge"></a><a href="https://www.tiktok.com/@ayaanman01"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=FFF&style=for-the-badge"></a><a href="https://discord.com/users/807730538205937745"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=FFF&style=for-the-badge"></a><a href="https://www.reddit.com/user/Good_Arm_9943/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=FFF&style=for-the-badge"></a>
+<a href="https://github.com/4Y44N-KH4L3D"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFF&style=for-the-badge"></a>
+<a href="https://www.instagram.com/4Y44N_KH4L3D/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=FFF&style=for-the-badge"></a>
+<a href="https://www.snapchat.com/@ak47_ayaan"><img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=000&style=for-the-badge"></a>
+<a href="https://www.tiktok.com/@ayaanman01"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=FFF&style=for-the-badge"></a>
+<a href="https://discord.com/users/807730538205937745"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=FFF&style=for-the-badge"></a>
+<a href="https://www.reddit.com/user/Good_Arm_9943/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=FFF&style=for-the-badge"></a>
 
 <br>
 <br>
