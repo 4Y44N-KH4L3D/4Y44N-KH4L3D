@@ -2,7 +2,7 @@
 
 # I'm Ayaan
 
-I am an aspiring software engineer who is currently studying computer science and pursuing a career in software engineering. I enjoy coding; building helpful projects, exploring new technologies, and just taking small ideas to the next level.
+Computer science student aspiring to become a backend engineer. I enjoy coding, building projects and learning how software works.
 
 ☪️ Alhamdulillah for everything 🙏
 
