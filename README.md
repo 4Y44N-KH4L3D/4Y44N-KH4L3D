@@ -46,7 +46,7 @@ Computer science student aspiring to become a backend developer. I enjoy coding,
 
 ## My Server - GlobalHost
 
-<a href="https://dsc.gg/dashboard/l/globalhost/general"><img alt="GlobalHost" src="https://img.shields.io/badge/GlobalHost-5865F2?logo=discord&logoColor=FFF&style=for-the-badge"></a>
+<a href="https://discord.com/invite/pQ67yTk8uA"><img alt="GlobalHost" src="https://img.shields.io/badge/GlobalHost-5865F2?logo=discord&logoColor=FFF&style=for-the-badge"></a>
 
 ## Let's Connect
 
