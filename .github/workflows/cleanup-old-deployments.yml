@@ -1,0 +1,68 @@
+name: Cleanup old deployments
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: Type DELETE_OLDER_DEPLOYMENTS to confirm
+        required: true
+        type: string
+
+permissions:
+  deployments: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check confirmation
+        env:
+          CONFIRMATION: ${{ inputs.confirm }}
+        run: |
+          if [[ "$CONFIRMATION" != "DELETE_OLDER_DEPLOYMENTS" ]]; then
+            echo "Confirmation did not match. No deployments were changed."
+            exit 1
+          fi
+
+      - name: Keep newest deployment and remove older records
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mapfile -t deployment_ids < <(
+            gh api --paginate --slurp \
+              "repos/${GITHUB_REPOSITORY}/deployments?per_page=100" \
+              --jq 'add | sort_by(.created_at) | reverse | .[].id'
+          )
+
+          count=${#deployment_ids[@]}
+          if (( count == 0 )); then
+            echo "No deployments found."
+            exit 0
+          fi
+
+          newest="${deployment_ids[0]}"
+          echo "Keeping newest deployment: $newest"
+          echo "Total deployments found: $count"
+
+          if (( count == 1 )); then
+            echo "Only one deployment exists. Nothing to delete."
+            exit 0
+          fi
+
+          for id in "${deployment_ids[@]:1}"; do
+            echo "Retiring deployment $id..."
+            gh api --method POST \
+              "repos/${GITHUB_REPOSITORY}/deployments/$id/statuses" \
+              -f state=inactive \
+              -f description="Retired by manual deployment cleanup"
+
+            echo "Deleting deployment record $id..."
+            gh api --method DELETE \
+              "repos/${GITHUB_REPOSITORY}/deployments/$id" \
+              -f log_message="Removed old deployment record"
+          done
+
+          echo "Cleanup complete. Kept deployment $newest."
